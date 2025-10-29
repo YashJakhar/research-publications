@@ -1,2 +1,22 @@
-# research-publications
-My papers library: A collection of research publications authored or co-authored by me
+## Effective near-duplicate image detection using perceptual hashing and deep learning
+**Authors:** [Yash Jakhar, Malaya Dutta Borah]  
+**Published In:** [Journal Name]  
+**Year:** [2025]  
+
+**Abstract:**  
+Computer vision has always been concerned with near-duplicate image detection. Previous approaches for detecting near duplicates highlighted the necessity to adequately explore the aspect of image transformations for effectively handling complex images. We proposed a method of finding near duplicate images using the integration of three different techniques: perceptual hashing, Siamese network, and Vision Transformer. Perceptual hashing gives us a quick way to filter out similar-looking pictures, while the Siamese network architecture paired with the Vision transformer helps us identify more complex near duplicate instances. The integrated approach learns a metric space from data, which reflects both visual similarity and perceptual closeness among items in the dataset. The results demonstrate the effectiveness and robustness of our proposed method, achieving an AUROC of 0.99 and a precision of 0.987 on the California-ND dataset, and an AUROC of 0.92 with a precision of 0.884 on the INRIA Holidays dataset, significantly outperforming traditional methods by over 10% in both metrics. This represents a significant step forward in near-duplicate image detection research.
+
+**DOI / Publisher Link:**  
+https://doi.org/10.1016/j.ipm.2025.104086
+
+**How to cite:**  
+@article{jakhar2025effective,
+  title={Effective near-duplicate image detection using perceptual hashing and deep learning},
+  author={Jakhar, Yash and Borah, Malaya Dutta},
+  journal={Information Processing \& Management},
+  volume={62},
+  number={4},
+  pages={104086},
+  year={2025},
+  publisher={Elsevier}
+}
