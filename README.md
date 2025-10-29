@@ -1,6 +1,6 @@
 ## Effective near-duplicate image detection using perceptual hashing and deep learning
 **Authors:** [Yash Jakhar, Malaya Dutta Borah]  
-**Published In:** [Journal Name]  
+**Published In:** [Information Processing & Management]  
 **Year:** [2025]  
 
 **Abstract:**  
